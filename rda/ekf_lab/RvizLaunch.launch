@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="rviz" type="rviz" name="rviz" args="-d /home/usmahm/Desktop/learning/rda/catkin_ws/src/EKFLab.rviz" />
+</launch>
